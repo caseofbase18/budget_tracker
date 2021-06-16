@@ -3,9 +3,6 @@ This is an application that allows users to track their budget offline.  The use
 
 Deployed: https://still-badlands-51985.herokuapp.com/
 
-## Image of Home Page
-<img src="./public/images/homepage.png">
-
-## Images After Information Added
+## Image After Information Added
 <img src="./public/images/infoadded.png">
-<img src="./public/images/infoadded2.png">
+
