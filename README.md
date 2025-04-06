@@ -36,9 +36,9 @@ This project utilizes HTML5, CSS3, JavaScript, along with Mongoose for database 
 
 1. Clone the repository: 
     git clone https://github.com/caseofbase18/budget_tracker.git
-2. Navigate into the project directory.
+2. Navigate into the project directory: 
     cd budget_tracker
-3. Install dependencies.
+3. Install dependencies: 
     npm install
 
 ## Usage
